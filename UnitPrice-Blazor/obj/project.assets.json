@@ -127,7 +127,7 @@
   },
   "libraries": {
     "Microsoft.AspNetCore.Blazor/0.7.0": {
-      "sha512": "8TT1EZP73UvyTWV3BtDZjPH+w223Ln8N6mG9p6s1f23Ftuk5zWoTHDklAzzH1Jfymd8f5SRu2g4jVMTgrtBAtg==",
+      "sha512": "EHuB6kQBKvxfokuG1X69GB9nc7LGcwu3niPVUwR1bUl23cqiVAk7imyxlC0uUzCeqFTTfoL6QMNIzcnF/OEdGg==",
       "type": "package",
       "path": "microsoft.aspnetcore.blazor/0.7.0",
       "files": [
@@ -141,7 +141,7 @@
       ]
     },
     "Microsoft.AspNetCore.Blazor.Analyzers/0.7.0": {
-      "sha512": "Xym0zBTO6+75eoxAqC4Iqu+sxs52xn90vo0eiEmr8N46ZDbpWszkRg3KinYMnNgbQ/qdwnV7zzE3OkUeVlNpsQ==",
+      "sha512": "qKY3cptSK3nt7FGmTqFJaXIzjNq8jzWebc7zvrIz5qa1JZI6D4fqgqoN0Tc5uLrsZqhV1950Amllgud966p0Ww==",
       "type": "package",
       "path": "microsoft.aspnetcore.blazor.analyzers/0.7.0",
       "files": [
@@ -154,7 +154,7 @@
       ]
     },
     "Microsoft.AspNetCore.Blazor.Browser/0.7.0": {
-      "sha512": "9DeNtjStGjeVTvNaRvgXBSpqidF5MZ8c/8ZzRXPsDeZorzljgR14PiSWtVCvNuRFNeDXyAoaj+Y+nicP9N/jrg==",
+      "sha512": "YH9YfxYGFpVqVR60bXLZqflS4rF8lP9Zrew3wWTAJlbJtETaWmbN0SIEBsv/Kq/VvLAQ/MPC+pyHA9Mfobeo6A==",
       "type": "package",
       "path": "microsoft.aspnetcore.blazor.browser/0.7.0",
       "files": [
@@ -168,7 +168,7 @@
       ]
     },
     "Microsoft.AspNetCore.Blazor.Build/0.7.0": {
-      "sha512": "TpTAliV9RgjIBETAHSwtZa0V5/iUCdJ0TBGFNzOS39IxHI5yI0DfwnGZertT/qgCGHBkmWzjyD/+xAiv3c0SOg==",
+      "sha512": "fqNSjcA70mqKxtJG5nba5pfbcNWGpYZ5dKUw8+94fEo7P0M46D8dBv/D+J6sMeWO2Zz9eUzl0JdLNYHSmFcYgA==",
       "type": "package",
       "path": "microsoft.aspnetcore.blazor.build/0.7.0",
       "hasTools": true,
@@ -424,7 +424,7 @@
       ]
     },
     "Microsoft.AspNetCore.Razor.Design/2.1.2": {
-      "sha512": "BclSBrm1mZzG1mjYG3Fm60ObVFa+DTKUkE0pZrg1nq7vJ/4whuLLQ3vk4ZsPAUbLyz4XiEyYNIMO1K/1Au+OLQ==",
+      "sha512": "fe1+dpy+eM4IX1zodsvkihO1Spuj0NecfStWzvkYoMo7/ziOsqSv4vFK36ZpBfHa4gpdCEwaU46EPzdq+ZDYhQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.razor.design/2.1.2",
       "hasTools": true,
@@ -451,7 +451,7 @@
       ]
     },
     "Microsoft.Extensions.DependencyInjection/2.1.0": {
-      "sha512": "gt5wZArSJyLxGqvom+0WrNcmiJurkZV0YaPC4wpeqbSVg9CEQAG6h7nQXJcqj8+6BFYB9RDey4gAZasxcxv4tw==",
+      "sha512": "gqQviLfuA31PheEGi+XJoZc1bc9H9RsPa9Gq9XuDct7XGWSR9eVXjK5Sg7CSUPhTFHSuxUFY12wcTYLZ4zM1hg==",
       "type": "package",
       "path": "microsoft.extensions.dependencyinjection/2.1.0",
       "files": [
@@ -468,7 +468,7 @@
       ]
     },
     "Microsoft.Extensions.DependencyInjection.Abstractions/2.1.0": {
-      "sha512": "kDs/SngBdfZZRvbxu24sVqe22PSjCtLx7T1YOeJxs07Gnvb9rCNWwE/kjubRpS5N2AXu2ycxN/n6jeQF48vpkw==",
+      "sha512": "8/CtASu80UIoyG+r8FstrmZW5GLtXxzoYpjj3jV0FKZCL5CiFgSH3pAmqut/dC68mu7N1bU6v0UtKKL3gCUQGQ==",
       "type": "package",
       "path": "microsoft.extensions.dependencyinjection.abstractions/2.1.0",
       "files": [
@@ -481,7 +481,7 @@
       ]
     },
     "Microsoft.JSInterop/0.7.0": {
-      "sha512": "epldqT0eNfh0FieYfAd78kd1n11YsTdhOGEooMD0sC35MHin6wLMUYlPjAPM/irSKrVvo6E1wQsh/0kgQSVH3A==",
+      "sha512": "b+1JTJL4a7vc45vn2Cjvdn3qZaw5ORv8bTagszrNVh8Di0YLccAMnZPNF+fypr7GDS76Uf4mDaCkOW6/TzRzXA==",
       "type": "package",
       "path": "microsoft.jsinterop/0.7.0",
       "files": [
@@ -493,12 +493,10 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
+      "sha512": "s5Wds0Zq6oD4FnV4yB1OLxnHi27qQPAkJ6v1Lfw0qIUGmMXBha6zczJxhqL/7vusUoUaM8lZ+Mon2CzNBntTdw==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -508,7 +506,7 @@
       ]
     },
     "Mono.WebAssembly.Interop/0.7.0": {
-      "sha512": "YLCK1z+KPErQl9pQAE6f60ZDJNIKBh9s30tRnBO6jnBOU4nO+tseZKLk14bytg3HzodecnCI6n2kCGE4jUkSVw==",
+      "sha512": "h7JJuVZCDJr5CXbwTGah6wFP/p3/zpWjjQJq379tjXJIy53yz00pEeEE1jB/OCQaMLT+L41K0j/vPGlQynep/g==",
       "type": "package",
       "path": "mono.webassembly.interop/0.7.0",
       "files": [
@@ -656,28 +654,30 @@
     ]
   },
   "packageFolders": {
-    "/home/mike/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\MADCo\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mike/development/repos/UnitPrice/UnitPrice/UnitPrice-Blazor/UnitPrice-Blazor.csproj",
+      "projectUniqueName": "C:\\Users\\MADCo\\Dev\\github\\UnitPrice\\UnitPrice-Blazor\\UnitPrice-Blazor.csproj",
       "projectName": "UnitPrice-Blazor",
-      "projectPath": "/home/mike/development/repos/UnitPrice/UnitPrice/UnitPrice-Blazor/UnitPrice-Blazor.csproj",
-      "packagesPath": "/home/mike/.nuget/packages/",
-      "outputPath": "/home/mike/development/repos/UnitPrice/UnitPrice/UnitPrice-Blazor/obj/",
+      "projectPath": "C:\\Users\\MADCo\\Dev\\github\\UnitPrice\\UnitPrice-Blazor\\UnitPrice-Blazor.csproj",
+      "packagesPath": "C:\\Users\\MADCo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MADCo\\Dev\\github\\UnitPrice\\UnitPrice-Blazor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/mike/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\MADCo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
